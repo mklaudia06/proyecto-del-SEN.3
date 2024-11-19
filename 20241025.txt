@@ -1,0 +1,15 @@
+En el día de ayer se afectó el servicio por déficit de capacidad de generación a partir de las 05:48 horas de la mañana, el mismo quedo restablecido a las 02:15 horas de la madrugada de hoy y a las 05:41 horas se comenzó a afectar nuevamente el servicio por déficit de capacidad de generación.
+
+La máxima afectación por déficit de capacidad de generación en el horario pico fue de 879 MW a las 19:20 horas, coincidente con la hora pico. Se reportan 13 MW afectados en Guantánamo el paso de huracán.
+
+La disponibilidad del SEN a las 07:00 horas es de 1937 MW y la demanda 2000 MW, con 99 MW afectado por déficit de capacidad. En el horario de la media se estima una afectación por déficit de 400 MW.
+
+Se encuentra en avería las unidades 1 y 3 de la CTE Santa Cruz, la unidad 3 de la CTE Cienfuegos y la unidad 2 de la CTE Felton. En mantenimiento se encuentra la unidad 2 de la CTE Santa Cruz y la unidad 5 de la CTE Renté.
+
+Las limitaciones en la generación térmica son de 545 MW.
+
+Se encuentran fuera de servicio por combustible 35 centrales de generación distribuida, para un total de 191 MW.
+
+Para el pico se estima la entrada de la unidad 1 de la CTE Santa Cruz con 75 MW (en proceso de arranque), la entrada de 3 motores en la Patana de Melones con 48 MW y la entrada de 4 motores en la CDE Mariel con 64 MW.
+
+Con este pronostico, se estima para la hora pico una disponibilidad de 2124 MW y una demanda máxima de 3000 MW, para un déficit de 876 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 946 MW en este horario.

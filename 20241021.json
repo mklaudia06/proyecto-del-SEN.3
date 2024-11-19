@@ -1,0 +1,50 @@
+{
+    "dia_anterior":{
+     "max_afect" : "",
+      "hora": "",
+      "zona_afectada": "",
+      "causa": ""
+    },
+    "dia_de_hoy":{
+        "disponibilidad_mw" : "",
+        "hora" : "",
+        "demanda_mw" : "",
+        "mw_afectados": "",
+        "afect_estimada_mw":""
+    },
+    "CTE_averias":[
+    {"CTE" : "",
+    "Unidad" : ""},
+    {"CTE":"",
+    "Unidad": ""},
+    {"CTE":"",
+    "Unidad":""}
+    ],
+    "CTE_mantenimiento":[
+    {"CTE":"",
+    "Unidad":""},
+    {"CTE":"",
+    "Unidad":""}
+    ],
+    "lim_generacion_termica_mw": "",
+    "centrales_generacion_distribuida":{
+        "fuera_servicio_combustible":"",
+        "total_faltante_mw":""
+    },
+    "se_estima":{
+        "recuperacion_mw":"",
+        "entrada_CTE":[
+        {"CTE":"",
+    "Unidad":"",
+    "mw":""}
+        ]
+    },
+    "pronostico_estimado":{
+        "hora":"",
+        "disponibilidad_mw":"",
+        "demanda_max_mw": "",
+        "deficit_mw": "",
+        "afectacion_mw":""
+    }
+    }
+    
